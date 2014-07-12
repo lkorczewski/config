@@ -1,0 +1,4 @@
+1.0.0
+  * general Config class
+  * Config_Interface
+  * Php_Config_Factory

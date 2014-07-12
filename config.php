@@ -2,7 +2,7 @@
 
 namespace Config;
 
-abstract class Config implements Config_Interface {
+class Config implements Config_Interface {
 	
 	protected $parameters = [];
 	
